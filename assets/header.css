@@ -1,0 +1,20 @@
+/*
+ header.css
+ Truze.AI
+
+ Created by Shun Sakai and Joseph Fernando on May 16, 2023
+ Copyright © 2023 Shun Sakai. All rights reserved.
+
+ THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL.
+ UNAUTHORIZED COPYING, TRANSFERRING OR REPRODUCTION OF THE CONTENTS OF THIS PROJECT, VIA ANY MEDIUM IS STRICTLY PROHIBITED.
+*/
+
+.dash-table-container{
+    height: 100% !important;
+}
+
+/*
+.dash-spreadsheet.dash-freeze-top{
+    height: 100px !important;
+}
+*/

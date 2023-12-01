@@ -1,0 +1,13 @@
+# ignore database files
+pages/database.ini
+pages/configdb.py
+
+# ignore data
+raw_data.csv
+raw_data.txt
+
+# ignore python cache
+__pycache__/
+
+# ignore
+cache-directory
